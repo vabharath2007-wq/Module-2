@@ -7,9 +7,13 @@ Write a Python Program to print pyramid pattern of numbers .Get the input for th
 For example:
 
 1 
+
 1 2 
+
 1 2 3 
+
 1 2 3 4 
+
 1 2 3 4 5
 
 
